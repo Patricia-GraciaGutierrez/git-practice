@@ -1,4 +1,3 @@
 Name: Ironhacker
 Age: 30
-Favorite Color: Blue
-City: Las Palmas
+Favorite Color: Green
